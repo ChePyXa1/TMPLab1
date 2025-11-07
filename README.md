@@ -1,11 +1,14 @@
 Запуск и тест docker'a
 <img width="904" height="47" alt="{A5451258-EC24-4113-8A81-C4E1DC43027B}" src="https://github.com/user-attachments/assets/8ebbca1b-fe5f-44eb-bc4f-fbae11a42d09" />
 
+
+
 pre-commit
 <img width="1273" height="382" alt="{BDCD0C44-663D-4BCD-A759-4C47B778C0D9}" src="https://github.com/user-attachments/assets/815dfd41-fc6d-471a-8bb9-1832c6cab4c3" />
 
-создание ключа
 
+
+создание ключа
 <img width="612" height="488" alt="{23AD06C8-BB23-438C-A6B7-B1118D60DC44}" src="https://github.com/user-attachments/assets/bb6d4cff-9315-4794-bc76-4888a4a5c254" />
 
 <img width="466" height="174" alt="{E4BE5040-F11B-4331-8C6B-B935F68EC49F}" src="https://github.com/user-attachments/assets/fe441e76-7251-49ca-a40d-ab6bb3adb954" />
@@ -18,6 +21,8 @@ pre-commit
 
 <img width="577" height="462" alt="{DFE416B1-916D-4CCF-BF03-9B6145CEF428}" src="https://github.com/user-attachments/assets/c844b002-3038-485a-9524-0cf2c8256aa3" />
 
+
+
 rebase
 <img width="572" height="399" alt="{96714728-6347-4271-A4C0-3E94D51BBC5A}" src="https://github.com/user-attachments/assets/861110c7-b8bf-4953-9031-adc0f8a42b85" />
 
@@ -27,6 +32,7 @@ rebase
 
 <img width="532" height="46" alt="{AAA00DC5-8BFE-4F19-85EC-723DF318DC59}" src="https://github.com/user-attachments/assets/ee1e96f0-25f2-4066-8574-7c9247872bf3" />
 
-gitleaks
 
+
+gitleaks
 <img width="683" height="355" alt="{EF7901EE-0B24-480D-B87E-C59617E4B192}" src="https://github.com/user-attachments/assets/60438eb5-b09c-4b11-8a4d-0e06f6e39497" />
