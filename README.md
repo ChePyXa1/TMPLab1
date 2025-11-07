@@ -1,14 +1,14 @@
-Запуск и тест docker'a
+    Запуск и тест docker'a
 <img width="904" height="47" alt="{A5451258-EC24-4113-8A81-C4E1DC43027B}" src="https://github.com/user-attachments/assets/8ebbca1b-fe5f-44eb-bc4f-fbae11a42d09" />
 
 
 
-pre-commit
+    pre-commit
 <img width="1273" height="382" alt="{BDCD0C44-663D-4BCD-A759-4C47B778C0D9}" src="https://github.com/user-attachments/assets/815dfd41-fc6d-471a-8bb9-1832c6cab4c3" />
 
 
 
-создание ключа
+    создание ключа
 <img width="612" height="488" alt="{23AD06C8-BB23-438C-A6B7-B1118D60DC44}" src="https://github.com/user-attachments/assets/bb6d4cff-9315-4794-bc76-4888a4a5c254" />
 
 <img width="466" height="174" alt="{E4BE5040-F11B-4331-8C6B-B935F68EC49F}" src="https://github.com/user-attachments/assets/fe441e76-7251-49ca-a40d-ab6bb3adb954" />
@@ -23,7 +23,7 @@ pre-commit
 
 
 
-rebase
+    rebase
 <img width="572" height="399" alt="{96714728-6347-4271-A4C0-3E94D51BBC5A}" src="https://github.com/user-attachments/assets/861110c7-b8bf-4953-9031-adc0f8a42b85" />
 
 <img width="427" height="174" alt="{484153F5-2194-4DE8-BADC-D2ABC9204F84}" src="https://github.com/user-attachments/assets/de5146e3-d29c-433a-9d37-c85f9c955dd1" />
@@ -34,5 +34,5 @@ rebase
 
 
 
-gitleaks
+    gitleaks
 <img width="683" height="355" alt="{EF7901EE-0B24-480D-B87E-C59617E4B192}" src="https://github.com/user-attachments/assets/60438eb5-b09c-4b11-8a4d-0e06f6e39497" />
