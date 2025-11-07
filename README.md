@@ -18,3 +18,15 @@ pre-commit
 
 <img width="577" height="462" alt="{DFE416B1-916D-4CCF-BF03-9B6145CEF428}" src="https://github.com/user-attachments/assets/c844b002-3038-485a-9524-0cf2c8256aa3" />
 
+rebase
+<img width="572" height="399" alt="{96714728-6347-4271-A4C0-3E94D51BBC5A}" src="https://github.com/user-attachments/assets/861110c7-b8bf-4953-9031-adc0f8a42b85" />
+
+<img width="427" height="174" alt="{484153F5-2194-4DE8-BADC-D2ABC9204F84}" src="https://github.com/user-attachments/assets/de5146e3-d29c-433a-9d37-c85f9c955dd1" />
+
+<img width="434" height="603" alt="{B2C218FC-EB65-456E-A2DC-B3A1B8EA5A5C}" src="https://github.com/user-attachments/assets/b2424449-6d3d-4426-b35f-6d7363e8fe9c" />
+
+<img width="532" height="46" alt="{AAA00DC5-8BFE-4F19-85EC-723DF318DC59}" src="https://github.com/user-attachments/assets/ee1e96f0-25f2-4066-8574-7c9247872bf3" />
+
+gitleaks
+
+<img width="683" height="355" alt="{EF7901EE-0B24-480D-B87E-C59617E4B192}" src="https://github.com/user-attachments/assets/60438eb5-b09c-4b11-8a4d-0e06f6e39497" />
