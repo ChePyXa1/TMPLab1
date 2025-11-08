@@ -18,7 +18,6 @@
 
 [.]<img width="507" height="503" alt="{C8559AD6-2655-42C8-976C-EE8E94BC762F}" src="https://github.com/user-attachments/assets/abd867fa-6710-46e8-b37d-9f373aa88708" />
 
-        bisect
 [.]<img width="486" height="413" alt="{03D3C319-F56E-4184-99E5-47E652A807D2}" src="https://github.com/user-attachments/assets/da210d30-09dd-4997-b30b-a6462f2742f5" />
 
 [.]<img width="577" height="462" alt="{DFE416B1-916D-4CCF-BF03-9B6145CEF428}" src="https://github.com/user-attachments/assets/c844b002-3038-485a-9524-0cf2c8256aa3" />
@@ -30,6 +29,8 @@
 
 [.]<img width="427" height="174" alt="{484153F5-2194-4DE8-BADC-D2ABC9204F84}" src="https://github.com/user-attachments/assets/de5146e3-d29c-433a-9d37-c85f9c955dd1" />
 
+
+    bisect
 [.]<img width="434" height="603" alt="{B2C218FC-EB65-456E-A2DC-B3A1B8EA5A5C}" src="https://github.com/user-attachments/assets/b2424449-6d3d-4426-b35f-6d7363e8fe9c" />
 
 [.]<img width="532" height="46" alt="{AAA00DC5-8BFE-4F19-85EC-723DF318DC59}" src="https://github.com/user-attachments/assets/ee1e96f0-25f2-4066-8574-7c9247872bf3" />
