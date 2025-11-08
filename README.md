@@ -1,5 +1,6 @@
     Запуск и тест docker'a
-<img width="904" height="47" alt="{A5451258-EC24-4113-8A81-C4E1DC43027B}" src="https://github.com/user-attachments/assets/8ebbca1b-fe5f-44eb-bc4f-fbae11a42d09" />
+<img width="920" height="461" alt="{EEDB8B62-509C-4680-8B42-22D37B2B7381}" src="https://github.com/user-attachments/assets/3381f837-e2d9-45d7-b0f6-875401f66a1d" />
+
 
 
 
