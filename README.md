@@ -8,7 +8,7 @@
 
 
 
-    создание ключа
+    создание ключа и подпись коммитов
 [.]<img width="612" height="488" alt="{23AD06C8-BB23-438C-A6B7-B1118D60DC44}" src="https://github.com/user-attachments/assets/bb6d4cff-9315-4794-bc76-4888a4a5c254" />
 
 [.]<img width="466" height="174" alt="{E4BE5040-F11B-4331-8C6B-B935F68EC49F}" src="https://github.com/user-attachments/assets/fe441e76-7251-49ca-a40d-ab6bb3adb954" />
